@@ -1,0 +1,215 @@
+* {
+    font-family: Poppins;
+}
+body{
+    margin:auto;
+}
+header {
+    background-color: beige;
+    height: 430px;
+    width: 100%;
+    background-image: url(zomato.homepages.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.logo-span{
+    background-color: white;
+    border-radius:50%;
+    padding:17px 33px;
+    position: absolute;
+    left:555px;
+    top: 50px;
+}
+.logo{
+    width: 68px;
+    height: 99px;
+    font-size: 50px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.51;
+    letter-spacing: normal;
+    text-align: left;
+    color: #eb2929;
+    text-decoration: none;
+}
+.login-signup{
+    position: absolute;
+    right:75px;
+    top:50px;
+}
+.login{
+    color:white;
+    text-decoration: none;
+    margin-right:25px;
+    font-size: 16px;
+}
+.createaccount{
+    color:white;
+    text-decoration: none;
+    border:1px solid white;
+    padding:10px 10px;
+    font-size: 16px;
+}
+.headings{
+    color: #fff;;
+    width: 754px;
+    height: 51px;
+    margin: 22px 205px 38px 0;
+    font-size: 33px;
+    font-weight: 600;
+    line-height: 1.53;
+    position: relative;
+    top:190px;
+    left:300px;
+}
+.dropdown{
+    width: 50%;
+    height: 45px;
+    margin-left:24%;
+    margin-top:18.5%;
+    font-size:30px;
+}
+select{
+    height:45px;
+    width:30%;
+}
+#restaurants{
+    width:60%;
+    margin-left:47px;
+}
+section{
+    position: relative;
+    height:630px;
+    padding: 30px 100px;
+}
+#quickheading{
+    width: 300px;
+    height: 43px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    color: #192f60;
+}
+#quicksubheading{
+    width: 331px;
+    text-align: left;
+    color: #8c96ab;height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: -19px;
+}
+#spacer{
+    margin-top:30px;
+}
+.container1{
+    width: 300px;
+    height: 130px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+}
+.container2{
+    width: 300px;
+    height: 130px;
+    margin: 26px 30px 0 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    margin-left: 3px;
+    position: absolute;
+    top:370px;
+
+}
+.container3{
+    width:300px;
+    height: 130px;
+    margin: 26px 30px 0 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    position: absolute;
+    top: 143px;
+    left:404px;
+}
+.container4{
+    width: 300px;
+    height: 130px;
+    margin: 26px 30px 0 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    position: absolute;
+    top: 143px;
+    left:780px;
+}
+.container5{
+    width: 300px;
+    height: 130px;
+    margin: 26px 30px 0 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    position: absolute;
+    top: 370px;
+    left:404px;
+}
+.container6{
+    width: 300px;
+    height: 130px;
+    margin: 26px 30px 0 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    position: absolute;
+    top: 370px;
+    left:780px;
+}
+#photo{
+    width: 140px;
+    height: 174px;
+    object-fit:cover;
+    background-color: #fff;
+    margin-top:-13px;
+    margin-left:-26px;
+    
+}
+.Breakfast {
+    width: 88px;
+    height: 25px;
+    margin: 25px 49px 4px 39px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    text-align: left;
+    color: #192f60;
+    position:absolute;
+    top: 24%;
+    left:230px;
+}
+.Foodtime {
+    width: 88px;
+    height: 25px;
+    margin: 25px 49px 4px 39px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    text-align: left;
+    color: #192f60;
+    position:absolute;
+    top: -2%;
+    left:130px;
+}
+.subtext{
+    width: 140px;
+    height: 62px;
+    margin: 5px 0 42px 27px;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: left;
+    color: #8c96ab;
+    position:absolute;
+    top:32%;
+}
+}

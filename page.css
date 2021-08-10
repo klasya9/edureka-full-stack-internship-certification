@@ -1,0 +1,278 @@
+*{
+    font-family: Poppins;
+}
+body{
+    margin:auto;
+}
+html{
+    width: 1336px;
+    height: 973px;
+    padding: 0 0 88px;
+    background-color: #fbfbfb;
+}
+header{
+    width: 1370px;
+    height: 80px;
+    padding: 15px 101px 13px 102px;
+    height: 80px;
+    background-color: #ce0505;
+    position: relative;
+    text-decoration: none;
+}
+#logo-span{
+    padding: 9px 17px ;
+    background-color: #fff;
+    border-radius:50%;
+    position: absolute;
+    top:25px;
+    left:120px;
+}
+.logo{
+    color:#ce0505;
+    font-size:28px;
+    font-weight:600;
+    text-decoration: none;
+}
+.login-signup{
+    position: absolute;
+    right:75px;
+    top:40px;
+}
+.login{
+    color:white;
+    text-decoration: none;
+    margin-right:25px;
+}
+.createaccount{
+    color:white;
+    text-decoration: none;
+    border:1px solid white;
+    padding:10px 10px;
+    border: radius 3px;
+}
+section{
+    position: relative;
+    padding: 30px 25px;
+}
+.title-text{
+    width: 512px;
+    height: 51px;
+    margin: 37px 25px 27px 113px;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+
+}
+.filters-article{
+    width: 210px;
+    height: 682px;
+    margin: 27px 45px 8px 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+}
+.Filters {
+    width: 55px;
+    height: 25px;
+    margin: 0 154px 10px 0;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.Select-Location {
+    width: 180px;
+    height: 9px;
+    margin: 10px 102px 11px 1px;
+    font-size: 14px;
+    line-height: 3;
+    font-weight: 600;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.Rectangle-2236 {
+    width: 208px;
+    height: 35px;
+    border-radius: 3px;
+  }
+  .seize{
+      height:100%;
+      width:100%;
+  }
+  .Cuisine {
+    width: 51px;
+    height: 20px;
+    margin: 22px 157px 15px 1px;
+    font-size: 20px;
+    line-height: 3;
+    font-weight: 600;
+    text-align: left;
+    color: #192f60;
+}
+#foodtype{
+    color: #192f60;
+    font-weight:600;
+}
+.checkerbox{
+    width: 18px;
+    height: 18px;
+    margin: 5px 11px 14px 1px;
+    border-radius: 1.5px;
+    border: solid 1.5px #3a5075;
+      
+}
+.Cost-For-Two {
+    width: 250px;
+    height: 20px;
+    margin: 26px 119px 15px 1px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top:9px;
+    text-align: left;
+    color: #192f60;
+  }
+#zoose{
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 8px;
+    text-align: left;
+    color: #8c96ab;
+}
+.bontainer{
+    background-color: solid 1.5px;;
+    line-height:30px;
+    color: solid 1.5px #3a5075;
+}
+.Sort {
+    width: 37px;
+    height: 25px;
+    margin: 29px 172px 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 2;
+    text-align: left;
+    color: #192f60;
+  }
+.result1-article{
+    width: 794px;
+    height: 291px;
+    margin: 27px 154px 34px 45px;
+    padding: 25px 32.6px 20px 35px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    position: absolute;
+    top: 123px;
+    left:450px;
+}
+.photo{
+    width: 130px;
+    height: 130px;
+    margin-left: 20px;
+    margin-top:10px;
+    border-radius:23%;
+    object-fit:cover;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+}
+.The-Big-Chill-Cakery{
+    font-size:36px;
+    color: #192f60;
+    position: relative;
+    top:-80px;
+    left:90px;
+    font-weight:700;
+}
+.Fort{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 5;
+    text-align: left;
+    color: #192f60;
+    position: relative;
+    top:-40px;
+    left:-260px
+}
+.Fortin{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 5;
+    text-align: left;
+    color: #192f60;
+    position: relative;
+    top:-40px;
+    left:-174px
+}
+.address{
+    color: #636f88;
+    position: relative;
+    top:-70px;
+    left:250px
+}
+.CUISINES-COST-FOR-TWO{
+    text-align: left;
+    color: #636f88;
+    width: 140px;
+    height: 118px;
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 1.88;
+}
+.Bakery-700{
+    color: #192f60;
+    font-size:16px;
+    font-weight:600;
+    position: relative;
+    top:-23px;
+    left:150px
+}
+.adjust{
+    color: #192f60;
+    font-size:16px;
+    font-weight:600;
+    position: relative;
+    top:30px;
+    left:-57px;
+}
+.addresses{
+    color: #636f88;
+    position: relative;
+    top:-70px;
+    left:245px
+}
+.result2-article{
+    width: 794px;
+    height: 291px;
+    margin: 5px 154px 38px 45px;
+    padding: 25px 32.6px 20px 35px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    position: absolute;
+    top: 520px;
+    left:450px;
+}
+#pagination{
+    position: absolute;
+    bottom:-30px;
+    left:800px
+}
+.roofus{
+    color:#636f88;
+    background-color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    border:2px solid gray;
+    padding:5px 15px;
+    border-radius: 2px;
+    border-radius:15%;
+}
